@@ -10,14 +10,14 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, I'm Tyler. I am an aspiring computer scientist with a passion for technology development. This is my personal blog. </p>
+        <p>Hi, I'm Tyler. I am an aspiring computer scientist with a passion for technology development. This is my personal blog that I created using a combination of React.js, Next.js, and Node.js. </p>
         
       </section>
 
       <h1 className="title">
-           Read{' '}
+           Read about my{' '}
            <Link href="/posts/first-post">
-             <a>this page!</a>
+             <a>final project</a>
            </Link>
       </h1>
     </Layout>
