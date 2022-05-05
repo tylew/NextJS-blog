@@ -16,7 +16,7 @@ export default function Home() {
 
       <h1 className="title">
            Read about my{' '}
-           <Link href="/posts/first-post">
+           <Link href="/posts/final-project">
              <a>final project</a>
            </Link>
       </h1>
