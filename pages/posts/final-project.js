@@ -8,7 +8,7 @@ export default function FinalProject() {
   return (
     <Layout>
       <Head>
-        <title>Hello</title>
+        <title>TL Final Project</title>
       </Head>
       
       <h1>Web-Engineering Final Project Brief</h1>
