@@ -59,12 +59,12 @@ export default function FinalProject() {
           <h3>Site mockup</h3>
           <h4>Original layout mockup:</h4>
             
-          <Image src="/images/mockup.jpeg" width={1000} height={600} />
+          <Image priority src="/images/mockup.jpeg" width={1000} height={600} />
           <p>This is the original implementation of my idea. I have since made further improvement to the site which can be observed in the following section. </p>
            
           <h4>Current/final layout mockup:</h4>
             
-          <Image src="/images/final.jpeg" width={1000} height={600} />
+          <Image priority src="/images/final.jpeg" width={1000} height={600} />
           <p>As you can tell, major changes to the page and navigation bar have been made. 
             
             I am proud of the styling and animations of the buttons, 
